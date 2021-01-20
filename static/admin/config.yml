@@ -2,9 +2,6 @@ backend:
   name: git-gateway
   branch: main
 
-local_backend: true
-display_url: localhost:8000/
-
 media_folder: content/
 public_folder: static/images
 
